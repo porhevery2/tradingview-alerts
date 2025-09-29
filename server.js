@@ -84,4 +84,8 @@ wss.on('connection', (ws) => {
 server.listen(PORT, () => {
   console.log(`🚀 Server listening on http://localhost:${PORT}`);
 });
+/** 헬스체크 */
+app.get('/health', (_req, res) => {
+  res.json({ ok: true });
+});
 
