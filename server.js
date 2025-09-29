@@ -61,6 +61,11 @@ app.get('/alerts', (_req, res) => {
   res.json({ count: alerts.length, items: alerts });
 });
 
+/** 헬스체크 */
+app.get('/health', (_req, res) => {
+  res.json({ ok: true });
+});
+
 /** 서버 + 웹소켓 준비 */
 const server = http.createServer(app);
 const wss = new WebSocketServer({ server });
@@ -79,3 +84,4 @@ wss.on('connection', (ws) => {
 server.listen(PORT, () => {
   console.log(`🚀 Server listening on http://localhost:${PORT}`);
 });
+
