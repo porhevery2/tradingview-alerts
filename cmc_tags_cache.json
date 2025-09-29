@@ -1,0 +1,1888 @@
+{
+  "ok": true,
+  "updatedAt": 1758965500329,
+  "count": 209,
+  "items": [
+    {
+      "symbol": "WAXP",
+      "name": "왁스",
+      "en": "WAX",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "CARV",
+      "name": "카브",
+      "en": "CARV",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "LSK",
+      "name": "리스크",
+      "en": "Lisk",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "0G",
+      "name": "제로지",
+      "en": "0G",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "BORA",
+      "name": "보라",
+      "en": "BORA",
+      "cmcTags": [],
+      "topCategories": [
+        "Gaming/NFT/Metaverse"
+      ]
+    },
+    {
+      "symbol": "PUNDIX",
+      "name": "펀디엑스",
+      "en": "Pundi X",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "USD1",
+      "name": "월드리버티파이낸셜유에스디",
+      "en": "World Liberty Financial USD",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "BAT",
+      "name": "베이직어텐션토큰",
+      "en": "Basic Attention Token",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "HUNT",
+      "name": "헌트",
+      "en": "HUNT",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "PENGU",
+      "name": "펏지펭귄",
+      "en": "Pudgy Penguins",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "FIL",
+      "name": "파일코인",
+      "en": "Filecoin",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "BEAM",
+      "name": "빔",
+      "en": "Beam",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "WAVES",
+      "name": "웨이브",
+      "en": "Waves",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "USDC",
+      "name": "유에스디코인",
+      "en": "USD Coin",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MOVE",
+      "name": "무브먼트",
+      "en": "Movement",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "TREE",
+      "name": "트리하우스",
+      "en": "Treehouse",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "AERGO",
+      "name": "아르고",
+      "en": "Aergo",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "USDT",
+      "name": "테더",
+      "en": "Tether",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "BOUNTY",
+      "name": "체인바운티",
+      "en": "Chainbounty",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "KAITO",
+      "name": "카이토",
+      "en": "KAITO",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "LPT",
+      "name": "라이브피어",
+      "en": "Livepeer",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "BLAST",
+      "name": "블라스트",
+      "en": "Blast",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "DKA",
+      "name": "디카르고",
+      "en": "dKargo",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ANKR",
+      "name": "앵커",
+      "en": "Ankr",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ALGO",
+      "name": "알고랜드",
+      "en": "Algorand",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SHIB",
+      "name": "시바이누",
+      "en": "Shiba Inu",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "UNI",
+      "name": "유니스왑",
+      "en": "Uniswap",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "WLFI",
+      "name": "월드리버티파이낸셜",
+      "en": "World Liberty Financial",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "TOKAMAK",
+      "name": "토카막네트워크",
+      "en": "Tokamak Network",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "CYBER",
+      "name": "사이버",
+      "en": "Cyber",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "DOGE",
+      "name": "도지코인",
+      "en": "Dogecoin",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "WLD",
+      "name": "월드코인",
+      "en": "Worldcoin",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "PEPE",
+      "name": "페페",
+      "en": "Pepe",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "HBAR",
+      "name": "헤데라",
+      "en": "Hedera",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "BCH",
+      "name": "비트코인캐시",
+      "en": "Bitcoin Cash",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "NEWT",
+      "name": "뉴턴프로토콜",
+      "en": "Newton Protocol",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SEI",
+      "name": "세이",
+      "en": "Sei",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "BONK",
+      "name": "봉크",
+      "en": "Bonk",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "JST",
+      "name": "저스트",
+      "en": "JUST",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "AAVE",
+      "name": "에이브",
+      "en": "Aave",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "JTO",
+      "name": "지토",
+      "en": "Jito",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "JUP",
+      "name": "주피터",
+      "en": "Jupiter",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "FLOW",
+      "name": "플로우",
+      "en": "Flow",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ALT",
+      "name": "알트레이어",
+      "en": "Altlayer",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "LAYER",
+      "name": "솔레이어",
+      "en": "Solayer",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "TRX",
+      "name": "트론",
+      "en": "TRON",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "POWR",
+      "name": "파워렛저",
+      "en": "Power ledger",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ATOM",
+      "name": "코스모스",
+      "en": "Cosmos",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ARKM",
+      "name": "아캄",
+      "en": "Arkham",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "CRO",
+      "name": "크로노스",
+      "en": "Cronos",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "NXPC",
+      "name": "넥스페이스",
+      "en": "Nexpace",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "A",
+      "name": "볼타",
+      "en": "Vaulta",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "오피셜트럼프",
+      "en": "Official Trump",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "G",
+      "name": "그래비티",
+      "en": "Gravity",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "CELO",
+      "name": "셀로",
+      "en": "Celo",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "AERO",
+      "name": "에어로드롬파이낸스",
+      "en": "Aerodrome Finance",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "CTC",
+      "name": "크레딧코인",
+      "en": "Creditcoin",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ANIME",
+      "name": "애니메코인",
+      "en": "Animecoin",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "APT",
+      "name": "앱토스",
+      "en": "Aptos",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MOCA",
+      "name": "모카네트워크",
+      "en": "Moca Network",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "API3",
+      "name": "에이피아이쓰리",
+      "en": "API3",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "AHT",
+      "name": "아하토큰",
+      "en": "AhaToken",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "EGLD",
+      "name": "멀티버스엑스",
+      "en": "MultiversX",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ERA",
+      "name": "칼데라",
+      "en": "Caldera",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "NEO",
+      "name": "네오",
+      "en": "NEO",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ETC",
+      "name": "이더리움클래식",
+      "en": "Ethereum Classic",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "IOTA",
+      "name": "아이오타",
+      "en": "IOTA",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "IOST",
+      "name": "아이오에스티",
+      "en": "IOST",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "AKT",
+      "name": "아카시네트워크",
+      "en": "Akash Network",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "COW",
+      "name": "카우프로토콜",
+      "en": "CoW Protocol",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "VIRTUAL",
+      "name": "버추얼프로토콜",
+      "en": "Virtuals Protocol",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ETH",
+      "name": "이더리움",
+      "en": "Ethereum",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "IQ",
+      "name": "아이큐",
+      "en": "IQ.wiki",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "IP",
+      "name": "스토리",
+      "en": "Story",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "NEAR",
+      "name": "니어프로토콜",
+      "en": "NEAR Protocol",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "RVN",
+      "name": "레이븐코인",
+      "en": "Ravencoin",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "AGLD",
+      "name": "어드벤처골드",
+      "en": "Adventure Gold",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ID",
+      "name": "스페이스아이디",
+      "en": "SPACE ID",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "WAL",
+      "name": "월러스",
+      "en": "Walrus",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "PENDLE",
+      "name": "펜들",
+      "en": "Pendle",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "BLUR",
+      "name": "블러",
+      "en": "Blur",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "AWE",
+      "name": "에이더블유이",
+      "en": "AWE Network",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "THETA",
+      "name": "쎄타토큰",
+      "en": "Theta Token",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "AXL",
+      "name": "엑셀라",
+      "en": "Axelar",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "HP",
+      "name": "히포프로토콜",
+      "en": "Hippo Protocol",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SAND",
+      "name": "샌드박스",
+      "en": "The Sandbox",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "WCT",
+      "name": "월렛커넥트",
+      "en": "WalletConnect",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "AXS",
+      "name": "엑시인피니티",
+      "en": "Axie Infinity",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ARDR",
+      "name": "아더",
+      "en": "Ardor",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "AQT",
+      "name": "알파쿼크",
+      "en": "Alpha Quark Token",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ME",
+      "name": "매직에덴",
+      "en": "Magic Eden",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SONIC",
+      "name": "소닉SVM",
+      "en": "Sonic SVM",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ARB",
+      "name": "아비트럼",
+      "en": "Arbitrum",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "POL",
+      "name": "폴리곤에코시스템토큰",
+      "en": "Polygon Ecosystem Token",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "CVC",
+      "name": "시빅",
+      "en": "Civic",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "T",
+      "name": "쓰레스홀드",
+      "en": "Threshold",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "W",
+      "name": "웜홀",
+      "en": "Wormhole",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ARK",
+      "name": "아크",
+      "en": "Ark",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "AVNT",
+      "name": "아반티스",
+      "en": "Avantis",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "LA",
+      "name": "라그랑주",
+      "en": "Lagrange",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "HYPER",
+      "name": "하이퍼레인",
+      "en": "Hyperlane",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ATH",
+      "name": "에이셔",
+      "en": "Aethir",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "TAIKO",
+      "name": "타이코",
+      "en": "Taiko",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "AVAX",
+      "name": "아발란체",
+      "en": "Avalanche",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "IMX",
+      "name": "이뮤터블엑스",
+      "en": "Immutable X",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SC",
+      "name": "시아코인",
+      "en": "Siacoin",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "INJ",
+      "name": "인젝티브",
+      "en": "Injective",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MVL",
+      "name": "엠블",
+      "en": "MVL",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "HIVE",
+      "name": "하이브",
+      "en": "Hive",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "CBK",
+      "name": "코박토큰",
+      "en": "Cobak Token",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "OM",
+      "name": "만트라",
+      "en": "MANTRA",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "XLM",
+      "name": "스텔라루멘",
+      "en": "Lumen",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "OP",
+      "name": "옵티미즘",
+      "en": "Optimism",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SAFE",
+      "name": "세이프",
+      "en": "Safe",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "GLM",
+      "name": "골렘",
+      "en": "Golem",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "LINEA",
+      "name": "리네아",
+      "en": "Linea",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "POKT",
+      "name": "포켓네트워크",
+      "en": "Pocket Network",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ZKC",
+      "name": "바운드리스",
+      "en": "Boundless",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "KNC",
+      "name": "카이버네트워크",
+      "en": "Kyber Network",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "AUCTION",
+      "name": "바운스토큰",
+      "en": "Bounce",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "DRIFT",
+      "name": "드리프트",
+      "en": "Drift",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "FCT2",
+      "name": "피르마체인",
+      "en": "FirmaChain",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MTL",
+      "name": "메탈",
+      "en": "Metal",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "VET",
+      "name": "비체인",
+      "en": "VeChain",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "QTUM",
+      "name": "퀀텀",
+      "en": "Qtum",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "TT",
+      "name": "썬더코어",
+      "en": "ThunderCore",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "LINK",
+      "name": "체인링크",
+      "en": "Chainlink",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "XRP",
+      "name": "엑스알피(리플)",
+      "en": "XRP",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "CHZ",
+      "name": "칠리즈",
+      "en": "Chiliz",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ASTR",
+      "name": "아스타",
+      "en": "Astar",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "STORJ",
+      "name": "스토리지",
+      "en": "Storj",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ENA",
+      "name": "에테나",
+      "en": "Ethena",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MANA",
+      "name": "디센트럴랜드",
+      "en": "Decentraland",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "OPEN",
+      "name": "오픈렛저",
+      "en": "OpenLedger",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "GRS",
+      "name": "그로스톨코인",
+      "en": "Groestlcoin",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "PYTH",
+      "name": "피스네트워크",
+      "en": "Pyth Network",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "UXLINK",
+      "name": "유엑스링크",
+      "en": "UXLINK",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ENS",
+      "name": "이더리움네임서비스",
+      "en": "Ethereum Name Service",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "GRT",
+      "name": "더그래프",
+      "en": "The Graph",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "PUMP",
+      "name": "펌프펀",
+      "en": "Pump.fun",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "XTZ",
+      "name": "테조스",
+      "en": "Tezos",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "CKB",
+      "name": "너보스",
+      "en": "Nervos Network",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "KAVA",
+      "name": "카바",
+      "en": "Kava",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "TOSHI",
+      "name": "토시",
+      "en": "Toshi",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "BARD",
+      "name": "롬바드",
+      "en": "Lombard",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ZRO",
+      "name": "레이어제로",
+      "en": "LayerZero",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "RAY",
+      "name": "레이디움",
+      "en": "Raydium",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ONDO",
+      "name": "온도파이낸스",
+      "en": "Ondo Finance",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ZRX",
+      "name": "제로엑스",
+      "en": "0x Protocol",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "GMT",
+      "name": "스테픈",
+      "en": "Stepn",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "TFUEL",
+      "name": "쎄타퓨엘",
+      "en": "Theta Fuel",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "XPL",
+      "name": "플라즈마",
+      "en": "Plasma",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MASK",
+      "name": "마스크네트워크",
+      "en": "Mask Network",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "COMP",
+      "name": "컴파운드",
+      "en": "Compound",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ZETA",
+      "name": "제타체인",
+      "en": "ZetaChain",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "RED",
+      "name": "레드스톤",
+      "en": "RedStone",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "TIA",
+      "name": "셀레스티아",
+      "en": "Celestia",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ADA",
+      "name": "에이다",
+      "en": "Ada",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ELF",
+      "name": "엘프",
+      "en": "aelf",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "STEEM",
+      "name": "스팀",
+      "en": "Steem",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SOPH",
+      "name": "소폰",
+      "en": "Sophon",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MED",
+      "name": "메디블록",
+      "en": "MediBloc",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "1INCH",
+      "name": "1인치네트워크",
+      "en": "1inch Network",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MEW",
+      "name": "캣인어독스월드",
+      "en": "cat in a dogs world",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ORBS",
+      "name": "오브스",
+      "en": "Orbs",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "RENDER",
+      "name": "렌더토큰",
+      "en": "Render Token",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "STG",
+      "name": "스타게이트파이낸스",
+      "en": "Stargate Finance",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ORCA",
+      "name": "오르카",
+      "en": "Orca",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "BERA",
+      "name": "베라체인",
+      "en": "Berachain",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SIGN",
+      "name": "사인",
+      "en": "Sign",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "VANA",
+      "name": "바나",
+      "en": "Vana",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "DOT",
+      "name": "폴카닷",
+      "en": "Polkadot",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MBL",
+      "name": "무비블록",
+      "en": "MovieBloc",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "FLUID",
+      "name": "플루이드",
+      "en": "Fluid",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "BIGTIME",
+      "name": "빅타임",
+      "en": "Big Time",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SNT",
+      "name": "스테이터스네트워크토큰",
+      "en": "Status Network Token",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SOL",
+      "name": "솔라나",
+      "en": "Solana",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "QKC",
+      "name": "쿼크체인",
+      "en": "QuarkChain",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "메타디움",
+      "en": "Metadium",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SAHARA",
+      "name": "사하라에이아이",
+      "en": "Sahara AI",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MLK",
+      "name": "밀크",
+      "en": "MiL.k",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SXP",
+      "name": "솔라",
+      "en": "SXP",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "VTHO",
+      "name": "비토르토큰",
+      "en": "VeThor Token",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "OMNI",
+      "name": "옴니네트워크",
+      "en": "Omni Network",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MINA",
+      "name": "미나",
+      "en": "Mina",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "GAS",
+      "name": "가스",
+      "en": "GAS",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MNT",
+      "name": "맨틀",
+      "en": "Mantle",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MOC",
+      "name": "모스코인",
+      "en": "Moss Coin",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MOODENG",
+      "name": "무뎅",
+      "en": "Moo Deng",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "XEC",
+      "name": "이캐시",
+      "en": "eCash",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ZIL",
+      "name": "질리카",
+      "en": "Zilliqa",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "GAME2",
+      "name": "게임빌드",
+      "en": "GameBuild",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "STX",
+      "name": "스택스",
+      "en": "Stacks",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "FLOCK",
+      "name": "플록",
+      "en": "FLock.io",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "PROVE",
+      "name": "서싱트",
+      "en": "Succinct",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "BSV",
+      "name": "비트코인에스브이",
+      "en": "Bitcoin SV",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SUI",
+      "name": "수이",
+      "en": "Sui",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SYRUP",
+      "name": "메이플파이낸스",
+      "en": "Maple Finance",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "비트코인",
+      "en": "Bitcoin",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "HOLO",
+      "name": "홀로월드에이아이",
+      "en": "Holoworld AI",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "MIRA",
+      "name": "미라네트워크",
+      "en": "Mira Network",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "SUN",
+      "name": "썬",
+      "en": "SUN",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ONG",
+      "name": "온톨로지가스",
+      "en": "ONG",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "BTT",
+      "name": "비트토렌트",
+      "en": "BitTorrent",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ONT",
+      "name": "온톨로지",
+      "en": "Ontology",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "DEEP",
+      "name": "딥북",
+      "en": "DeepBook",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "STRAX",
+      "name": "스트라티스",
+      "en": "Stratis",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "ICX",
+      "name": "아이콘",
+      "en": "Icon",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    },
+    {
+      "symbol": "POLYX",
+      "name": "폴리매쉬",
+      "en": "Polymesh",
+      "cmcTags": [],
+      "topCategories": [
+        "Uncategorized"
+      ]
+    }
+  ]
+}
