@@ -68,7 +68,8 @@ app.get('/health', (_req, res) => {
 
 /** 서버 + 웹소켓 준비 */
 const server = http.createServer(app);
-const wss = new WebSocketServer({ server });
+const wss = new WebSocketServer({ server, path: "/ws" });
+
 
 function broadcast(msg) {
   const data = JSON.stringify(msg);
